@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(109, 109, 109);
+}
+
+
+/*  index strana */
+#loginKartica{
+    margin: 0 auto;   /* centriranje */
+    margin-top: 250px;  /* margina od vrha */
+    max-width: 400px;   /* max sirina kartice */
+}
+
+#registerKarta{
+    margin: 0 auto;   /* centriranje */
+    margin-top: 200px;  /* margina od vrha */
+    max-width: 400px;   /* max sirina kartice */
+}
+
+/* data_page strana */
+.centrirano {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    
+}
+
+
+
+.form-group{
+    padding-bottom: 10px;
+}
+
+
+.custom-card {
+    max-width: 800px;
+    
+}
